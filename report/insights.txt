@@ -1,0 +1,19 @@
+KPI Summary Report
+
+Overview:
+This report provides a summary of key performance indicators (KPIs) for the recent period, highlighting revenue, order volume, customer base, and top-performing categories and products.
+
+Key Metrics:
+| Metric                 | Value         |
+|------------------------|---------------|
+| Total Revenue          | $190,083.96   |
+| Total Orders           | 100           |
+| Total Customers        | 1,000,056     |
+| Average Order Value    | $1,900.84     |
+
+Top Performers:
+- Top Category: Electronics  
+  Revenue: $190,083.96
+
+- Top Product: Wireless Earphones  
+  Revenue: $101,229.36

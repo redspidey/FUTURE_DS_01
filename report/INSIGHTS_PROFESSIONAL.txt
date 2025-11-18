@@ -1,0 +1,24 @@
+=====================================================
+      BUSINESS INSIGHTS - POWER BI BACKEND REPORT     
+=====================================================
+
+📌 KEY KPIs
+ - Total Revenue: 32811463.64
+ - Total Orders: 5000
+ - Average Order Value: 6562.292728
+ - Total Products: 10
+ - Total Categories: 5
+
+🏆 Top Category:
+   👉 Electronics
+
+🔥 Top Product:
+   👉 LED Monitor
+
+📈 Revenue Trend:
+   Revenue shows consistent monthly variation.
+
+🧠 Recommendations:
+ - Promote high-performing categories.
+ - Create combo offers for low-selling products.
+ - Increase campaigns during peak days.
